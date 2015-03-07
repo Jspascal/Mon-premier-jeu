@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1417266317 source:c:\users\joseph pascal\documents\mes applis test\tests sur les boucles\mon premier jeu\mon premier jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
